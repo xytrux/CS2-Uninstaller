@@ -1,6 +1,8 @@
 # CS2-Uninstaller
 A simple script to remove CS2 from your CS:GO Legacy game.
 
+It is for people who don't want to waste space for CS2 when all you want is CS:GO
+
 ## Installation
 
 Download the Powershell script if you are on Windows.
