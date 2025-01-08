@@ -2,6 +2,11 @@
 A simple script to remove CS2 from your CS:GO Legacy game.
 
 It is for people who don't want to waste space for CS2 when all you want is CS:GO
+## How does it help?
+
+CS2 takes up a whole 47GB on your system. With CS:GO Legacy installed, it becomes over 70GB!!!
+
+What this tool does is it simply removes all the CS2 files so you're just left with the 30GB for CS:GO.
 
 ## Installation
 
