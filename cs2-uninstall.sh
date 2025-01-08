@@ -2,7 +2,7 @@
 # Linux/MacOS cleanup script
 CSGO_PATH="$HOME/.steam/steam/steamapps/common/Counter-Strike Global Offensive"
 
-echo "Removing CS:GO content, game, and EmptySteamDepot folders..."
+echo "Removing CS2..."
 
 # Check if directory exists
 if [ -d "$CSGO_PATH" ]; then
@@ -11,7 +11,7 @@ if [ -d "$CSGO_PATH" ]; then
     rm -rf "$CSGO_PATH/game"
     rm -rf "$CSGO_PATH/EmptySteamDepot"
     
-    echo "Cleanup completed successfully!"
+    echo "CS2 removed successfully!"
 else
-    echo "CS:GO directory not found at: $CSGO_PATH"
+    echo "CS2 directory not found at: $CSGO_PATH"
 fi
